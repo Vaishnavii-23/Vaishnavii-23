@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vaish 👩‍💻</h1>
+<h1 align="center">Hi, I'm Vaishnavii 👩‍💻</h1>
 <p align="center">🚀 Engineering Student | 🧠 Future Data Scientist | 🔥 Building cool stuff with code</p>
 
 ---
