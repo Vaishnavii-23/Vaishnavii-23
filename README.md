@@ -5,12 +5,9 @@
 
 ### 🧾 About Me
 - 🎓 B.Tech AI & Data Science @ MIT Aurangabad
-- 🎯 GATE CSE 2026 aspirant
-- 💡 Currently learning Full Stack Web Dev & AWS
+- 💡 Currently leaining Full Stack Web Dev & AWS
 - 🤖 Building an AI-powered legal chatbot project
-- 🌱 Obsessed with Data Science + UI/UX
-- 🌍 Dreaming of MS at MIT, Stanford, or Harvard
-- 🔭 Future CEO loading...
+- 🎯 Data Science + UI/UX
 
 ---
 
