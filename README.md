@@ -10,13 +10,13 @@ My current focus is on building a strong foundation in **Data Analytics**, **Mac
 ###  Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/vaishnavi-ghuge-071a59277" target="_blank">
+  <a href="https://linkedin.com/in/vaishnavi-ghuge-071a59277" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
   </a>
    <a href="mailto:vaishnavighuge711@gmail.com" target="_blank">
   <img src="https://img.icons8.com/color/48/gmail--v1.png" width="30" />
 </a>
-  <a href="https://github.com/vaishghuge" target="_blank">
+  <a href="https://github.com/vaishnavii-23">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
   </a>
 </p>
