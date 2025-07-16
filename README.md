@@ -1,16 +1,31 @@
-## Hi there 👋
+</p>
+<h1 align="center">Hey 👋 I'm Vaishnavi!</h1>
+<p>I'm a third-year B.Tech student at MIT Aurangabad, specializing in **Artificial Intelligence & Data Science**.<br>
 
-<!--
-**Vaishnavii-23/Vaishnavii-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My current focus is on building a strong foundation in **Data Analytics**, **Machine Learning**, and **Data Science** 
+<br>
+✨ I love blending creativity with logic — turning raw data into stories, dashboards, and intelligent systems.  <br>
+✨ I believe in *learning by building*, experimenting, and constantly improving — whether it’s projects, skills, or myself.
+</p>
 
-Here are some ideas to get you started:
+### 📬 How to Reach Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 **Email:** vaishnavighuge711@gmail.com  
+- 💼 **LinkedIn:** [Vaishnavi Ghuge](https://linkedin.com/in/vaishnavi-ghuge-071a59277)  
+
+---
+
+### ⚒️ Languages & Tools I Use
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-9E1B32?style=flat&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+---
