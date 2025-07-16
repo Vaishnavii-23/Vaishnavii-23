@@ -8,12 +8,21 @@ My current focus is on building a strong foundation in **Data Analytics**, **Mac
 ✨ I believe in *learning by building*, experimenting, and constantly improving — whether it’s projects, skills, or myself.
 </p>
 
-### 📬 How to Reach Me
+###  Connect with Me
 
-- 📧 **Email:** vaishnavighuge711@gmail.com  
-- 💼 **LinkedIn:** [Vaishnavi Ghuge](https://linkedin.com/in/vaishnavi-ghuge-071a59277)  
+<p>
+  <a href="https://linkedin.com/in/vaishnavi-ghuge-071a59277" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+  </a>
+   <a href="mailto:vaishnavighuge711@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/gmail--v1.png" width="30" />
+</a>
+  <a href="https://github.com/vaishghuge" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
+  </a>
+</p>
 
----
+
 
 ### ⚒️ Languages & Tools I Use
 
@@ -29,3 +38,13 @@ My current focus is on building a strong foundation in **Data Analytics**, **Mac
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavii-23&show_icons=true&theme=midnight-purple" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavii-23&theme=midnight-purple" width="400"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavii-23&layout=compact&theme=midnight-purple" width="400"/>
+</p>
+
