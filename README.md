@@ -8,18 +8,20 @@ My current focus is on building a strong foundation in **Data Analytics**, **Mac
 
 
 ###  Connect with Me
+<h3>vaishnavighuge711@gmail.com</h3>
 
 <p>
-  <a href="(https://www.linkedin.com/in/vaishnavi-ghuge-9b0504279/)" >
+  <a href="https://www.linkedin.com/in/vaishnavi-ghuge-9b0504279/" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
   </a>
-   <a href="mailto:vaishnavighuge711@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/gmail--v1.png" width="30" />
-</a>
+   &nbsp;&nbsp;
   <a href="https://github.com/vaishnavii-23">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
   </a>
 </p>
+ 
+
+
 
 
 
