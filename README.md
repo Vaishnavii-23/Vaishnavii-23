@@ -10,7 +10,7 @@ My current focus is on building a strong foundation in **Data Analytics**, **Mac
 ###  Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/vaishnavi-ghuge-071a59277" >
+  <a href="(https://www.linkedin.com/in/vaishnavi-ghuge-9b0504279/)" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
   </a>
    <a href="mailto:vaishnavighuge711@gmail.com" target="_blank">
