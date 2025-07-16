@@ -1,6 +1,5 @@
-</p>
-<h1 align="center">Hey 👋 I'm Vaishnavi!</h1>
->I'm a third-year B.Tech student at MIT Aurangabad, specializing in **Artificial Intelligence & Data Science**<br>
+## Hey 👋 I'm Vaishnavi!
+I'm a third-year B.Tech student at MIT Aurangabad, specializing in **Artificial Intelligence & Data Science**<br>
 
 My current focus is on building a strong foundation in **Data Analytics**, **Machine Learning**, and **Data Science** 
 <br>
