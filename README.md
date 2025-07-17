@@ -1,4 +1,4 @@
-## Hey 👋 I'm Vaishnavi!
+# Hey 👋 I'm Vaishnavi!
 I'm a third-year B.Tech student at MIT Aurangabad, specializing in **Artificial Intelligence & Data Science**<br>
 
 My current focus is on building a strong foundation in **Data Analytics**, **Machine Learning**, and **Data Science** 
@@ -7,7 +7,7 @@ My current focus is on building a strong foundation in **Data Analytics**, **Mac
 ✨ I believe in *learning by building*, experimenting, and constantly improving — whether it’s projects, skills, or myself.
 
 
-###  Connect with Me
+### 🔗 Connect with Me
 <h3>vaishnavighuge711@gmail.com</h3>
 
 <p>
