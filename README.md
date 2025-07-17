@@ -43,8 +43,8 @@ My current focus is on building a strong foundation in **Data Analytics**, **Mac
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavii-23&show_icons=true&theme=midnight-purple" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavii-23&theme=midnight-purple" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavii-23&show_icons=true&theme=midnight-purple" width="400"/><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavii-23&theme=midnight-purple" width="400"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavii-23&layout=compact&theme=midnight-purple" width="400"/>
 </p>
 
