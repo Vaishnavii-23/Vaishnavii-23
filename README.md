@@ -40,11 +40,14 @@ My current focus is on building a strong foundation in **Data Analytics**, **Mac
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats (Midnight Purple Theme)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavii-23&show_icons=true&theme=midnight-purple" width="400"/><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavii-23&theme=midnight-purple" width="400"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavii-23&layout=compact&theme=midnight-purple" width="400"/>
-</p>
+![Vaish's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavighuge&show_icons=true&theme=midnight-purple)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavighuge&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavighuge&layout=compact&theme=midnight-purple)
+
+
+
+---
