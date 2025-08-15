@@ -44,11 +44,11 @@ I build **intelligent systems and full-stack applications** that blend creativit
 ---
 
 ### 🚀 Featured Projects
-- **[AI-Powered Legal Chatbot](link)** – Full-stack **NLP chatbot** guiding users through legal processes  
+- **[AI-Powered Legal Chatbot]([link](https://github.com/Vaishnavii-23/ai-legal-chatbot))** – Full-stack **NLP chatbot** guiding users through legal processes  
   🔹 Built with **Rasa**, **Hugging Face Transformers**, **Azure AI**, **React/Next.js** frontend, and **Flask/FastAPI** backend  
   🔹 Handles intent recognition, complex queries, and safe, educational responses  
-- **[AI-Job-Market-Dashboard](link)** – Power BI dashboard analyzing AI-powered job market trends across industries  
-- **[Color-GAN Image Colorization](link)** – GAN project to colorize black & white images  
+- **[AI-Job-Market-Dashboard]([link](https://github.com/Vaishnavii-23/AI-Job-Market-Dashboard))** – Power BI dashboard analyzing AI-powered job market trends across industries  
+- **[Color-GAN Image Colorization]([link](https://github.com/Vaishnavii-23/Color-GAN-Image-Colorization-))** – GAN project to colorize black & white images  
 
 ---
 
