@@ -1,4 +1,4 @@
-# Hey 👋 I'm Vaishnavi!
+# Hey, I'm Vaishnavi!
 
 Ever wondered how AI and full-stack development can solve real-world problems?  
 
