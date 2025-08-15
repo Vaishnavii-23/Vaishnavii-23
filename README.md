@@ -1,32 +1,31 @@
 # Hey 👋 I'm Vaishnavi!
-I'm a third-year B.Tech student at MIT Aurangabad, specializing in **Artificial Intelligence & Data Science**<br>
 
-My current focus is on building a strong foundation in **Data Analytics**, **Machine Learning**, and **Data Science** 
-<br>
-✨ I love blending creativity with logic — turning raw data into stories, dashboards, and intelligent systems.  <br>
-✨ I believe in *learning by building*, experimenting, and constantly improving — whether it’s projects, skills, or myself.
+Ever wondered how AI and full-stack development can solve real-world problems?  
 
+I'm a **third-year B.Tech student at MIT Aurangabad**, specializing in **Artificial Intelligence & Data Science**.  
+I build **intelligent systems and full-stack applications** that blend creativity with logic.  
+
+✨ My current focus: **Machine Learning**, **NLP**, **AI Integration**, and **Full-Stack Development**.  
+✨ I believe in *learning by building*, experimenting, and constantly improving — whether it’s projects, skills, or myself.  
+
+---
 
 ### 🔗 Connect with Me
-<h3>vaishnavighuge711@gmail.com</h3>
+#### vghuge1323@gmail.com  
 
 <p>
-  <a href="https://www.linkedin.com/in/vaishnavi-ghuge-9b0504279/" >
+  <a href="https://www.linkedin.com/in/vaishnavi-ghuge-9b0504279/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
   </a>
-   &nbsp;&nbsp;
+
   <a href="https://github.com/vaishnavii-23">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
   </a>
 </p>
- 
 
-
-
-
+---
 
 ### ⚒️ Languages & Tools I Use
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -37,11 +36,22 @@ My current focus is on building a strong foundation in **Data Analytics**, **Mac
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-F9A03C?style=flat&logo=huggingface&logoColor=white)
+![RAG](https://img.shields.io/badge/-Rasa-FF5C5C?style=flat&logo=rasa&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-FF6F61?style=flat&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats (Midnight Purple Theme)
+### 🚀 Featured Projects
+- **[AI-Powered Legal Chatbot](link)** – Full-stack **NLP chatbot** guiding users through legal processes  
+  🔹 Built with **Rasa**, **Hugging Face Transformers**, **Azure AI**, **React/Next.js** frontend, and **Flask/FastAPI** backend  
+  🔹 Handles intent recognition, complex queries, and safe, educational responses  
+- **[AI-Job-Market-Dashboard](link)** – Power BI dashboard analyzing AI-powered job market trends across industries  
+- **[Color-GAN Image Colorization](link)** – GAN project to colorize black & white images  
 
+---
+
+### 📊 GitHub Stats
 ![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishnavii-23&theme=midnight-purple&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavii-23&theme=midnight-purple&layout=compact)
