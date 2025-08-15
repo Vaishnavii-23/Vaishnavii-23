@@ -25,7 +25,7 @@ I build **intelligent systems and full-stack applications** that blend creativit
 
 ---
 
-### ⚒️ Languages & Tools I Use
+### Languages & Tools I Use
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -43,7 +43,7 @@ I build **intelligent systems and full-stack applications** that blend creativit
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 - **[AI-Powered Legal Chatbot]([link](https://github.com/Vaishnavii-23/ai-legal-chatbot))** – Full-stack **NLP chatbot** guiding users through legal processes  
   🔹 Built with **Rasa**, **Hugging Face Transformers**, **Azure AI**, **React/Next.js** frontend, and **Flask/FastAPI** backend  
   🔹 Handles intent recognition, complex queries, and safe, educational responses  
@@ -52,6 +52,6 @@ I build **intelligent systems and full-stack applications** that blend creativit
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishnavii-23&theme=midnight-purple&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavii-23&theme=midnight-purple&layout=compact)
