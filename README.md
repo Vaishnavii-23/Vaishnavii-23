@@ -10,7 +10,7 @@ My current focus: **Machine Learning**, **NLP**, **AI Integration**, and **Full-
 ---
 
 ###  Connect with Me
-#### vaishanvighuge711@gmail.com  
+#### vaishnavighuge711@gmail.com  
 
 <p>
   <a href="https://www.linkedin.com/in/vaishnavi-ghuge-9b0504279/">
