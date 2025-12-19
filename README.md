@@ -22,10 +22,12 @@ My current focus: **Machine Learning**, **NLP**, **AI Integration**, and **Full-
   </a>
 </p>
 
----
 #### Resume
 
 ![Resume](https://github.com/Vaishnavii-23/portfolio/blob/main/Vaishnavi_ghuge'.pdf)
+
+---
+
 ### Languages & Tools I Use
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
