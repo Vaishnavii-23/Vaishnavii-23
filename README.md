@@ -2,7 +2,7 @@
 
 Ever wondered how AI and full-stack development can solve real-world problems?  
 
-I'm a **third-year B.Tech student at MIT Aurangabad**, specializing in **Artificial Intelligence & Data Science**.  
+I'm a **Final-year B.Tech student at MIT Aurangabad**, specializing in **Artificial Intelligence & Data Science**.  
 I build **intelligent systems and full-stack applications** that blend creativity with logic.  
 
 My current focus: **Machine Learning**, **NLP**, **AI Integration**, and **Full-Stack Development**.  .  
