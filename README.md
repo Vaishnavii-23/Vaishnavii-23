@@ -5,7 +5,7 @@ I'm a **Final-year B.Tech student at MIT Aurangabad**, specializing in **Artific
 🔭 **Currently building:** SwiftRide — a ride-hailing backend with a crowd-sourced Safety Routing Engine  
 🏆 **2nd Prize globally** (Travel Category), Google Maps Platform Awards 2025 — SafeRoute Pune, 100+ countries  
 🎯 Actively interviewing for **SDE roles** at product-based companies
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ---
 ###  Connect with Me
 #### vaishnavighuge711@gmail.com  
